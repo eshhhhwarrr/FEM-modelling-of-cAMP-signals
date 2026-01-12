@@ -71,9 +71,7 @@ D = (E / (1 - nu**2)) * np.array([
     [0, 0, (1 - nu) / 2]
 ])
 
-print(indices)
-# print((points))
-# print(triangle_coords)
+
 
 def elements(triangle_coords):
     n_triangles = triangle_coords.shape[0]
