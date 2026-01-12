@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.env
+
+# FEM / scientific computing outputs
+*.msh
+*.vtk
+*.vtu
+*.xdmf
+*.h5
+*.csv
+*.npy
+
+# Plots & results
+*.png
+*.jpg
+*.pdf
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
+
